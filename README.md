@@ -41,20 +41,17 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="suleafeezademola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/AfeezSule35391"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
 
-<details>
-  <summary>🌟 <b>Featured Projects</b></summary>
-  
-  - [Modern Portfolio Website](https://github.com/Cyberpunk738/modern-portfolio)
-  - [React Weather App](https://github.com/Cyberpunk738/react-weather)
-  - [CSS Animation Gallery](https://github.com/Cyberpunk738/css-animations)
-</details>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cyberpunk738" alt="Cyberpunk738" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/AfeezSule35391" target="blank"><img src="https://img.shields.io/twitter/follow/AfeezSule35391?logo=twitter&style=for-the-badge" alt="honour_can_code" /></a> </p>
+
 
 ---
 
