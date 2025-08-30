@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/React-Enthusiast-61dafb?logo=react&logoColor=white" alt="React Enthusiast" />
 </p>
 
+
 ---
 
 ## 🚀 About Me
@@ -28,6 +29,10 @@
 </div>
 
 ---
+
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cyberpunk738"/></a>
+</p>
 
 ## 📈 GitHub Stats
 
