@@ -1,6 +1,6 @@
 <!-- Profile README by Cyberpunk738 -->
 
-<h1 align="center">Hi 👋, I'm Cyberdev</h1>
+<h1 align="center">Hi 👋, I'm Afeez_dev</h1>
 <h3 align="center">A passionate Frontend Developer crafting stunning web interfaces</h3>
 
 <p align="center">
