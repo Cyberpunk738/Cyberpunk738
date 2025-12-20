@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/React-Enthusiast-61dafb?logo=react&logoColor=white" alt="React Enthusiast" />
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=Cyberpunk738&label=Profile%20views&color=0e75b6&style=flat-square"  />
+
 
 ---
 
