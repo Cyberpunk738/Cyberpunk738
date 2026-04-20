@@ -37,7 +37,7 @@ Interactive global interface for real-time data exploration
 - Performance-oriented architecture  
 - Built for scale  
 
-→ [Live] • [Code]
+→ https://github.com/Cyberpunk738/Cyberglobe.git
 
 ---
 
