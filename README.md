@@ -1,70 +1,89 @@
+<h1 align="center">Afeez Dev</h1>
+
+<p align="center">
+  Frontend Engineer • Systems-focused • Performance-driven
+</p>
+
+<p align="center">
+  <a href="https://github.com/Cyberpunk738">
+    <img src="https://komarev.com/ghpvc/?username=Cyberpunk738&label=views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+---
+
+## ⚡ Focus
+
+- Engineering high-performance frontend systems
+- Building developer tools & experimental runtimes
+- Designing for scale, speed, and clarity
+
+---
+
+## 🛠 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind,nodejs,git,github" />
+</p>
+
+---
+
+## 🚀 Selected Work
+
+### 🌍 CyberGlobe  
+Interactive global interface for real-time data exploration  
+
+- Smooth rendering & responsive interactions  
+- Performance-oriented architecture  
+- Built for scale  
+
+→ [Live] • [Code]
+
+---
+
+### 🧬 Py-JS  
+Python-like syntax running in JavaScript environments  
+
+- Experimental transpiler/runtime system  
+- Bridges Python logic → JS execution  
+- Focused on developer experimentation  
+
+→ [Code]
+
+---
+
+## 📊 Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberpunk738&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberpunk738&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberpunk738&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Current Direction
+
+- Pushing beyond UI into architecture & system design
+- Building tools developers actually use
+- Exploring new execution models (Py-JS and beyond)
+
+---
+
+## 🤝 Contact
+
+- Portfolio → https://afeezdev.vercel.app 
+- Twitter → https://x.com/afeez_dev
+
+---
+
+<p align="center">
+  I build systems that feel simple — and scale when they shouldn’t.
+</p>
+
 <!-- Profile README by Cyberpunk738 -->
 
-<h1 align="center">Hi 👋, I'm Afeez_dev</h1>
-<h3 align="center">A passionate Frontend Developer crafting stunning web interfaces</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Tech stack" /><br/>
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/React-Enthusiast-61dafb?logo=react&logoColor=white" alt="React Enthusiast" />
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Cyberpunk738&label=Profile%20views&color=0e75b6&style=flat-square"  />
-
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on modern, responsive, and dynamic web applications.
-- 🌱 I’m deepening my knowledge in **React**, exploring advanced hooks and state management.
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/Cyberpunk738?tab=repositories)
-- 💬 Ask me about **React, JavaScript, CSS Animations, or UI/UX**
-- ⚡ Fun fact: I love blending creativity with code to bring ideas to life!
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" alt="Tech stack icons" />
-</div>
-
----
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cyberpunk738"/></a>
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberpunk738&show_icons=true&theme=radical" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberpunk738&layout=compact&theme=radical" alt="Top languages" height="170"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="suleafeezademola@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/AfeezSule35391"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cyberpunk738" alt="Cyberpunk738" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/AfeezSule35391" target="blank"><img src="https://img.shields.io/twitter/follow/AfeezSule35391?logo=twitter&style=for-the-badge" alt="honour_can_code" /></a> </p>
-
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=09F7F7&center=true&vCenter=true&width=440&lines=Frontend+Developer;React+Lover;CSS+Artisan;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-
- 
