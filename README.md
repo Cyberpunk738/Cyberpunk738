@@ -48,7 +48,7 @@ Python-like syntax running in JavaScript environments
 - Bridges Python logic → JS execution  
 - Focused on developer experimentation  
 
-→ [Code]
+→ (https://github.com/Cyberpunk738/py-js-lite.git)
 
 ---
 
