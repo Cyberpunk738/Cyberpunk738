@@ -77,7 +77,7 @@ AI-powered financial analytics platform that transforms bank statements into int
 - 📈 Responsive charts and reporting
 - ⚡ Modern UI built with Next.js
 
-🔗 **[Live Demo](YOUR_VANGUARD_LINK)**
+🔗 **[Live Demo](https://vanguard-financial-analytics-platfo.vercel.app/)**
 
 📂 **[Source Code](https://github.com/Cyberpunk738/Vanguard-Financial-Analytics-Platform)**
 
@@ -95,7 +95,7 @@ Modern block-based editor built with React for creating structured documents thr
 - ⚡ Fast editing experience
 - 📱 Responsive UI
 
-🔗 **[Live Demo](YOUR_BLOCKFORGE_LINK)**
+🔗 **[Live Demo](https://block-forge.vercel.app/)**
 
 📂 **[Source Code](https://github.com/Cyberpunk738/Block-forge)**
 
@@ -113,7 +113,7 @@ Developer tool for analyzing React rendering performance and identifying optimiz
 - 🔍 Optimization insights
 - 🚀 Performance comparison dashboard
 
-🔗 **[Live Demo](YOUR_PERFORMANCE_ANALYZER_LINK)**
+🔗 **[Live Demo](https://react-performance-analyzer-production.up.railway.app/)**
 
 📂 **[Source Code](https://github.com/Cyberpunk738/React-performance-analyzer)**
 
