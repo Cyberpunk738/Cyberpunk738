@@ -1,6 +1,6 @@
 # Hi, I'm Afeez 👋
 
-Frontend Engineer building high-performance web applications, AI-powered interfaces, and modern user experiences.
+Software engineer building high-performance web applications, AI-powered interfaces, and modern user experiences.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Cyberpunk738&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
